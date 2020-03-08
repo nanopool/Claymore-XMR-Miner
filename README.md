@@ -195,4 +195,4 @@ Q: Miner freezes if I put cursor to its window in Windows 10 until any key is pr
 A: You should make some changes in Windows:
   https://superuser.com/questions/555160/windows-command-prompt-freezing-on-focus
   https://superuser.com/questions/419717/windows-command-prompt-freezing-randomly?rq=1
-  https://superuser.com/questions/1051821/command-prompt-random-pause?rq=1
+  https://superuser.com/questions/1051821/command-prompt-random-pause?rq=1 .  Muro sero tako eso beto 1-2-3-4-5 Meşreb.
